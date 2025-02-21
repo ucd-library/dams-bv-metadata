@@ -13,7 +13,7 @@
     "schema:Collection",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "ucdlib:labelService": {
+  "ucdlib:hasLabel": {
     "@id": "@base:/labels"
   },
   "schema:about": [
