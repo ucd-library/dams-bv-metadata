@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:labelService": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/770337"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175997"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:description": "The Beaulieu Vineyard Records document the history of the vineyard, the property history of the vineyard, and personnel and family histories related to the vineyard.\n\n Georges and Fernande de Latour’s Beaulieu Vineyard began with their acquisition of four acres of land and a house near Rutherford, California, in the Napa Valley in 1900. During the early 1900s, Georges imported pest-resistant rootstock from France in response to devastation of vines by Phylloxera starting in the 1890s. By 1904, de Latour rented a cellar, transitioning his efforts into winemaking in conjunction with importing and selling French rootstock.\n\n Prior to Prohibition (1920-1933), de Latour had acquired a permit to produce altar wine and supplied Catholic dioceses across the nation with altar wines. Because Prohibition allowed the production of sacramental wines, de Latour sustained BV’s wine production and sales during Prohibition. Between 1934 and 1940, BV surpassed all other California wineries in the number of medals earned in California competitions.\n\n A year after meeting Georges de Latour at the Paris Viticultural Experimental Station, André Tchelistcheff (1901-1994) arrived during the 1938 harvest season as the new BV winemaker. Tchelistcheff brought his deep experience in French winemaking, having held positions in France’s national department of enology and viticulture.\n\n Beaulieu Vineyard 1936 Cabernet set the standard for California cabernet wines for the next 40 years. Upon tasting it in 1938, Tchelistcheff immediately identified the 1936 vintage as exceptional and bottled it separately. The wine won a gold medal in the 1939 Golden Gate International Exhibition for best red wine. Georges de Latour Private Reserve Cabernet Sauvignon was released in 1941, a year after Georges de Latour’s death.\n\n Under Tchelistcheff, BV continued to earn international recognition as a highly respected vineyard whose wines were served to notable people including Winston Churchill, Generals Eisenhower and MacArthur, vocalist Edith Piaf, Queen Elizabeth II, and actor Rock Hudson. Tchelistcheff is still celebrated as “the Maestro” for how he “shaped and guided the philosophy of innovation and terroir expression in wine making.\n\n The collection’s finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8wd47dh/).",
+  "schema:identifier": [
+    "ark:/87293/d3jw86v22",
+    "D-758"
+  ],
+  "schema:image": {
+    "@id": "@base:/thumbnail.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Beaulieu Vineyard Collection",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "UC Davis, Archives and Special Collections"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "UC Davis, Archives and Special Collections"
+    }
+  ]
+}
