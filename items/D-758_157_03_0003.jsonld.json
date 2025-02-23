@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864482"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-758_157_03_0003.pdf"
+  },
+  "schema:datePublished": "1950",
+  "schema:identifier": [
+    "ark:/87293/d3fx7455r",
+    "D-758, Box:157, Folder:3"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D-758_157_03_0003-01.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Dinner honoring members of the Chase Organization with 25 or more years of service Waldorf- Astoria, New York, October 4, 1950"
+}

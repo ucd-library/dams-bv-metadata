@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1728849"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864482"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-758_001_001_0002.pdf"
+  },
+  "schema:datePublished": "1940-1969",
+  "schema:identifier": [
+    "D-758, Box:1, Folder:1",
+    "ark:/87293/d3qf8jr2x"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D-758_001_001_0002_recto-01.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Georges de Latour,1940-1969 - 01",
+  "schema:temporal": "1940-1969"
+}

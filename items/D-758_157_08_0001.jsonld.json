@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864482"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-758_157_08_0001.pdf"
+  },
+  "schema:datePublished": "1953",
+  "schema:identifier": [
+    "ark:/87293/d3mk65g6d",
+    "D-758, Box:157, Folder:8"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D-758_157_08_0001-01.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "The 100 Club Annual Banquet St. Francis Hotel San Francisco, February 9, 1953"
+}

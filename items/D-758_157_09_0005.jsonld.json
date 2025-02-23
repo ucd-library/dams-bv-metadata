@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/864482"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-758_157_09_0005.pdf"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1953"
+  },
+  "schema:description": "Wine and Food society of San Francisco dinner honoring the wines awarded the Gold Medal at the California State Fair at the Palace Hotel, San Francisco, October 14, 1953.",
+  "schema:identifier": [
+    "ark:/87293/d3zs2km5b",
+    "D-758, Box:157, Folder:9"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D-758_157_09_0005-01.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Wine and Food Society of San Francisco Dinner for wines awarded the Gold Medal at the California State Fair, Palace Hotel, San Francisco, October 14, 1953"
+}
