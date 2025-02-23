@@ -26,7 +26,7 @@
     "D-758, Box:151, Folder:19"
   ],
   "schema:image": {
-    "@id": "@base:/media/D-758_151_19_0009_recto.jpg"
+    "@id": "@base:/media/dl/D-758_151_19_0009_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"

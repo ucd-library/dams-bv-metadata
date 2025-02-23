@@ -28,7 +28,7 @@
     "D-758, Box:2, Folder:2"
   ],
   "schema:image": {
-    "@id": "@base:/media/D-758_002_002-16_0001.jpg"
+    "@id": "@base:/media/dl/D-758_002_002-16_0001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

@@ -33,7 +33,7 @@
     "ark:/87293/d3x05xk0h"
   ],
   "schema:image": {
-    "@id": "@base:/media/D-758_001_003_0003_recto-01.jpg"
+    "@id": "@base:/media/dl/D-758_001_003_0003_recto-01.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

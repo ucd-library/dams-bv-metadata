@@ -33,7 +33,7 @@
     "D-758, Box:1, Folder:1"
   ],
   "schema:image": {
-    "@id": "@base:/media/D-758_001_001_0006-01.jpg"
+    "@id": "@base:/media/dl/D-758_001_001_0006-01.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

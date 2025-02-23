@@ -29,7 +29,7 @@
     "D-758, Box:5, Folder:11"
   ],
   "schema:image": {
-    "@id": "@base:/media/D-758_005_011_0014_recto.jpg"
+    "@id": "@base:/media/dl/D-758_005_011_0014_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"

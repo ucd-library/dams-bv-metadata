@@ -31,7 +31,7 @@
     "D-758, Box:154, Folder:33"
   ],
   "schema:image": {
-    "@id": "@base:/media/D-758_154_33_0010_recto.jpg"
+    "@id": "@base:/media/dl/D-758_154_33_0010_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
