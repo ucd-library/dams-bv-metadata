@@ -24,9 +24,6 @@
       "@id": "http://id.worldcat.org/fast/864482"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_158_06.pdf"
-  },
   "schema:datePublished": "1965-1972",
   "schema:identifier": [
     "D-758, Box:158, Folder:6",

@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_002-03-08.pdf"
-  },
   "schema:description": "1973-1984, 1990-1992 vintages",
   "schema:identifier": [
     "ark:/87293/d3br8mp4h",

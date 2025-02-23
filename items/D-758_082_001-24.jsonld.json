@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_001-24.pdf"
-  },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1995"

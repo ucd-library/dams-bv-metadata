@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_008.pdf"
-  },
   "schema:description": "1960 vintage",
   "schema:identifier": [
     "ark:/87293/d3qr4nx8w",

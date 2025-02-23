@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1423689"
+  },
+  "schema:creator": "Hauck",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1949"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3pn8xn6t",
+    "D-758, Box:183, Folder:01"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-758_183_01_0005.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "February Sun, 1949"
+}

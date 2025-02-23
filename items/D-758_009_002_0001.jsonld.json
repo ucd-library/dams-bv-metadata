@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1423917"
+  },
+  "schema:datePublished": "1942-1943",
+  "schema:identifier": [
+    "D-758, Box:9, Folder:2",
+    "ark:/87293/d34q7qx5s"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-758_009_002_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Loose pages from Board of Directors Minute Book-Minutes, 1942-1943, in folder",
+  "schema:temporal": "1942-1943"
+}

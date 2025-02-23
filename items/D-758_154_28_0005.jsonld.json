@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1423917"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/797511"
+    }
+  ],
+  "schema:creator": "Beaulieu Vineyard",
+  "schema:datePublished": 1956,
+  "schema:identifier": [
+    "D-758, Box:154, Folder:28",
+    "ark:/87293/d3sq8qq8t"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-758_154_28_0005_recto-0005.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Correspondence, July 16, 1956",
+  "schema:temporal": "1950s-1960s"
+}

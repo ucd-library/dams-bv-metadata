@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1423917"
+  },
+  "schema:creator": "Latour, Georges de",
+  "schema:datePublished": "1905-1908",
+  "schema:description": "1 Southern Pacific shipping receipt for cuttings, consigned to Leopold Justi, February 17, 1904\n2 Envelope addressed to Leopold Justi in Cordelia, dated April 12, 1905, containing example of fishing hooks and line, and at one time included a sample of bait\nBillhead from Leopold Justi for bench grafts made out to a Mrs. [unreadable], March 4, 1908\n3 Billhead from Leopold Justi for bench grafts made out to H.J. Chauvet, March 4, 1908\n4 Southern Pacific Railroad freight bills made out to GDL, to be paid by M.C. Cleves. March 12, 1908 (3), March 4, 1909\n5 Form letter introducing Leopold Justi as agent for GDL, c1907\n6 California Northwestern Railway shipping receipt for vines, consigned to R.G. Hill, Eldridge [Robert P. Hill], February [ ], 1908\n7 Southern Pacific shipping receipt, consigned to Leopold Justi, February 24, 1909\n8 California Northwestern Railway shipping receipt for vines, for Leopold Justi, March 3 [undated]\n9 Two pages of handwritten notes about grape varieties and pumps, probably by Leopold Justi",
+  "schema:identifier": [
+    "ark:/87293/d3cf9jd93",
+    "D-758, Box:5, Folder:17"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-758_005_017-01_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Ephemera from Georges de Latour/Justi correspondence:, 1905-1908",
+  "schema:temporal": "1905-1908"
+}

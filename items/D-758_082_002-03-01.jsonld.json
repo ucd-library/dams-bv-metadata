@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_002-03-01.pdf"
-  },
   "schema:datePublished": "ca. 2000",
   "schema:identifier": [
     "D-758, Box:82, Folder:2",

@@ -24,9 +24,6 @@
       "@id": "http://id.worldcat.org/fast/797511"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_158_04.pdf"
-  },
   "schema:datePublished": "1965-1970",
   "schema:identifier": [
     "ark:/87293/d3s46hd6q",

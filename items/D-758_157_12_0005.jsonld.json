@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/864482"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    }
+  ],
+  "schema:datePublished": "ca. 1955-1957",
+  "schema:identifier": [
+    "ark:/87293/d3930p27t",
+    "D-758, Box:157, Folder:12"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-758_157_12_0005_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Wine and cocktail menu from the Starlight Roof at the Waldorf-Astoria New York, undated, ca. 1955-1957",
+  "schema:temporal": "1955 1957"
+}

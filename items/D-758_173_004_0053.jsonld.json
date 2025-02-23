@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D-758_173_004_0053_recto-01.tif"
+  },
+  "schema:datePublished": "1970s-1980s",
+  "schema:identifier": [
+    "D-758, Box:173, Folder:04",
+    "ark:/87293/d3m61bw7n"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+  },
+  "schema:name": "Winery workers, 1970s-1980s - 78",
+  "schema:temporal": "1970s-1980s",
+  "schema:image": {
+    "@id": "@base:/D-758_173_004_0053_recto-01.tif"
+  }
+}

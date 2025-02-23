@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_001-04.pdf"
-  },
   "schema:description": "1989-1993 vintages",
   "schema:identifier": [
     "ark:/87293/d3nc5sk5k",

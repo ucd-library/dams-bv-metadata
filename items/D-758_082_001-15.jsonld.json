@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_001-15.pdf"
-  },
   "schema:description": "1993-1997 vintages",
   "schema:identifier": [
     "ark:/87293/d37659n76",

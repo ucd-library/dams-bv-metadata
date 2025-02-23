@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_005.pdf"
-  },
   "schema:description": "1942 vintage",
   "schema:identifier": [
     "ark:/87293/d33x83s7n",
