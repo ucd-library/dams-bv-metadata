@@ -34,5 +34,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
   "schema:name": "Wines-Store displays, 1940s-1960s - 04",
-  "schema:temporal": "1940s-1960s"
+  "schema:temporal": "1940s-1960s",
+  "schema:image": {
+    "@id": "@base:/D-758_173_034_0004_recto-01.tif"
+  }
 }

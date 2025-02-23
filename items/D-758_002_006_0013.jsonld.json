@@ -30,5 +30,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Telegrams, 1951 - 68"
+  "schema:name": "Telegrams, 1951 - 68",
+  "schema:image": {
+    "@id": "@base:/D-758_002_006_0013_recto-01.tif"
+  }
 }

@@ -31,5 +31,8 @@
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
   "schema:name": "California Tartar Works, 1920 - 01",
-  "schema:temporal": "1895, 1920"
+  "schema:temporal": "1895, 1920",
+  "schema:image": {
+    "@id": "@base:/D-758_001_002_0001_recto-01.tif"
+  }
 }

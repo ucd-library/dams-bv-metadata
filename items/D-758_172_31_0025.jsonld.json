@@ -27,5 +27,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Richard Walton - 02"
+  "schema:name": "Richard Walton - 02",
+  "schema:image": {
+    "@id": "@base:/D-758_172_31_0025_recto-01.tif"
+  }
 }

@@ -27,5 +27,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Joel Aiken and Jeffrey Stambor - 16"
+  "schema:name": "Joel Aiken and Jeffrey Stambor - 16",
+  "schema:image": {
+    "@id": "@base:/D-758_173_005_0016_recto-01.tif"
+  }
 }

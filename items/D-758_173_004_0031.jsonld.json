@@ -34,5 +34,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
   "schema:name": "Winery workers, 1970s-1980s - 56",
-  "schema:temporal": "1970s-1980s"
+  "schema:temporal": "1970s-1980s",
+  "schema:image": {
+    "@id": "@base:/D-758_173_004_0031_recto-01.tif"
+  }
 }

@@ -36,5 +36,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Tasting-London, 1983 - 10"
+  "schema:name": "Tasting-London, 1983 - 10",
+  "schema:image": {
+    "@id": "@base:/D-758_173_052_0010_recto-01.tif"
+  }
 }

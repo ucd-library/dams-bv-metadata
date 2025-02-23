@@ -30,5 +30,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Letters and cards to Richard de Latour, 1951 - 10"
+  "schema:name": "Letters and cards to Richard de Latour, 1951 - 10",
+  "schema:image": {
+    "@id": "@base:/D-758_002_002-10_0001_recto-01.tif"
+  }
 }

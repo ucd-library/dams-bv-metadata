@@ -33,5 +33,8 @@
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
   "schema:name": "Fernande de Latour, 1947-1976 - 02",
-  "schema:temporal": "1947-1976"
+  "schema:temporal": "1947-1976",
+  "schema:image": {
+    "@id": "@base:/D-758_001_004_0002_recto-01.tif"
+  }
 }

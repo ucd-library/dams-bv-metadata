@@ -29,5 +29,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
   "schema:name": "De Latour home-Interiors, 1940s-1950s, 1970s - 06",
-  "schema:temporal": "1940s-1950s, 1970s"
+  "schema:temporal": "1940s-1950s, 1970s",
+  "schema:image": {
+    "@id": "@base:/D-758_173_037_0006_recto-01.tif"
+  }
 }

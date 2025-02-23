@@ -27,5 +27,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Georges and Fernande de Latour, Undated - 03"
+  "schema:name": "Georges and Fernande de Latour, Undated - 03",
+  "schema:image": {
+    "@id": "@base:/D-758_172_08_0005_recto-01.tif"
+  }
 }

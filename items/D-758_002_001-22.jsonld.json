@@ -30,5 +30,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Letters and cards to Helene de Pins, 1951 - 022"
+  "schema:name": "Letters and cards to Helene de Pins, 1951 - 022",
+  "schema:image": {
+    "@id": "@base:/D-758_002_001-22_0001_recto-01.tif"
+  }
 }

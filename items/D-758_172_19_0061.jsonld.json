@@ -27,5 +27,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Legh F. Knowles, Undated - 111"
+  "schema:name": "Legh F. Knowles, Undated - 111",
+  "schema:image": {
+    "@id": "@base:/D-758_172_19_0061_recto-01.tif"
+  }
 }

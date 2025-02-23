@@ -28,5 +28,8 @@
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
   "schema:name": "Georges de Latour, 1940-1969 - 05",
-  "schema:temporal": "1940-1969"
+  "schema:temporal": "1940-1969",
+  "schema:image": {
+    "@id": "@base:/D-758_001_001_0007_recto-01.tif"
+  }
 }

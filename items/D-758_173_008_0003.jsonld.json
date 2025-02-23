@@ -36,5 +36,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Vineyards-1970 Spring frost-Dr. Richard Peterson photos, April 21, 1970 - 12"
+  "schema:name": "Vineyards-1970 Spring frost-Dr. Richard Peterson photos, April 21, 1970 - 12",
+  "schema:image": {
+    "@id": "@base:/D-758_173_008_0003_recto-01.tif"
+  }
 }

@@ -27,5 +27,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Executives - 02"
+  "schema:name": "Executives - 02",
+  "schema:image": {
+    "@id": "@base:/D-758_173_006_0002_recto-01.tif"
+  }
 }

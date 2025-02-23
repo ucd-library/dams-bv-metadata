@@ -27,5 +27,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
   },
-  "schema:name": "Unidentified People - 05"
+  "schema:name": "Unidentified People - 05",
+  "schema:image": {
+    "@id": "@base:/D-758_172_32_0009_recto-01.tif"
+  }
 }
