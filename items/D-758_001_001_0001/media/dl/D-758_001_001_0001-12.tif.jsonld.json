@@ -14,7 +14,7 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": 12,
+  "schema:position": "012",
   "ebucore:filename": "D-758_001_001_0001-12.tif",
   "ebucore:hasMimeType": "image/tiff"
 }
