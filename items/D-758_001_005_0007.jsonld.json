@@ -24,9 +24,6 @@
       "@id": "http://id.worldcat.org/fast/1728849"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_001_005_0007.pdf"
-  },
   "schema:datePublished": "1951-1982",
   "schema:identifier": [
     "ark:/87293/d35d8nm7g",

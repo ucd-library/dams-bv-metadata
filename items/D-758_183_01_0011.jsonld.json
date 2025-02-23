@@ -17,9 +17,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423689"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
-  },
   "schema:creator": "Hauck",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1424061"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_12_0005.pdf"
-  },
   "schema:datePublished": "ca. 1955-1957",
   "schema:identifier": [
     "ark:/87293/d3930p27t",

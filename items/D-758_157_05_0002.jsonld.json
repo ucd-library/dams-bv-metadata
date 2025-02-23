@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1424061"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_05_0002.pdf"
-  },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1951"

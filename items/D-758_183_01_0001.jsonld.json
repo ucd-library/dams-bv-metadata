@@ -17,9 +17,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423689"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
-  },
   "schema:identifier": [
     "D-758, Box:183, Folder:01",
     "ark:/87293/d3z60c848"

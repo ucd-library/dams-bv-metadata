@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/797511"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_154_18_0001.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": "1960s",
   "schema:identifier": [

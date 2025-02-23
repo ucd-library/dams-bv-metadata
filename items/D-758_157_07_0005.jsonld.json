@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/864482"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_07_0005.pdf"
-  },
   "schema:datePublished": "1952",
   "schema:identifier": [
     "D-758, Box:157, Folder:7",

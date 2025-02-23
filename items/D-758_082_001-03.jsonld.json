@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_001-03.pdf"
-  },
   "schema:description": "1993-1999 vintages",
   "schema:identifier": [
     "D-758, Box:82, Folder:1",

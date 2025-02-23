@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423917"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_005_013_0004.pdf"
-  },
   "schema:creator": "Latour, Georges de",
   "schema:identifier": [
     "D-758, Box:5, Folder:13",

@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/864482"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_001_003_0009.pdf"
-  },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1940"

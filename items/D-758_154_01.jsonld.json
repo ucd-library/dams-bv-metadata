@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/797511"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_154_01.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1424061"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_01_0007.pdf"
-  },
   "schema:datePublished": 1946,
   "schema:identifier": [
     "ark:/87293/d3rf5kp33",

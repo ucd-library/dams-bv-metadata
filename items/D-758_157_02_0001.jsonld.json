@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/864482"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_02_0001.pdf"
-  },
   "schema:datePublished": "1950",
   "schema:description": "Tearsheet from Washington Post April 13 1950: Visit of president of Chile, Gabriel Gonzalez Videla and Senora de Gonzales dinner at Carlton Hotel.",
   "schema:identifier": [

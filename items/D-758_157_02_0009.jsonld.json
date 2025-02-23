@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1424061"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_02_0009.pdf"
-  },
   "schema:datePublished": "1950",
   "schema:identifier": [
     "ark:/87293/d3v698k6h",

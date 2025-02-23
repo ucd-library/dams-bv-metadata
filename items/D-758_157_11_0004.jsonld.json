@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/797511"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_11_0004.pdf"
-  },
   "schema:datePublished": "1954",
   "schema:identifier": [
     "ark:/87293/d3t43j940",

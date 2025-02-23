@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_002-02-01.pdf"
-  },
   "schema:datePublished": "1980s",
   "schema:identifier": [
     "ark:/87293/d3n873634",

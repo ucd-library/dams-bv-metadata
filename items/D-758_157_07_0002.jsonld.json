@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1424061"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_07_0002.pdf"
-  },
   "schema:datePublished": "1952",
   "schema:identifier": [
     "ark:/87293/d30r9mb5s",

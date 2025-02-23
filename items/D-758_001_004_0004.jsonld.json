@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1728849"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_001_004_0004.pdf"
-  },
   "schema:datePublished": "1947-1976",
   "schema:identifier": [
     "ark:/87293/d36d5ph67",

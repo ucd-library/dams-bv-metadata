@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/797511"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_01_0008.pdf"
-  },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1949"

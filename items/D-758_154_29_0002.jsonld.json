@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1750243"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_154_29_0002.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

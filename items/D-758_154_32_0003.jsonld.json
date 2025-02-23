@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/797511"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_154_32_0003.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": "1980s",
   "schema:identifier": [

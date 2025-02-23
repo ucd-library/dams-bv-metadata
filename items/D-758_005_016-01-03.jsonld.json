@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423917"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_005_016-01-03.pdf"
-  },
   "schema:creator": "Latour, Georges de",
   "schema:datePublished": "1992-1996",
   "schema:identifier": [

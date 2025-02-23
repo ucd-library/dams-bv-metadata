@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/797511"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_151_02_0005.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": "1950s",
   "schema:identifier": [

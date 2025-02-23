@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_002-03-06.pdf"
-  },
   "schema:creator": "Berger, Dan",
   "schema:datePublished": "ca. 1990",
   "schema:identifier": [

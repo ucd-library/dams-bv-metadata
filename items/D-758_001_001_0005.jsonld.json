@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1728849"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_001_001_0005.pdf"
-  },
   "schema:datePublished": "1940-1969",
   "schema:identifier": [
     "ark:/87293/d3b853q39",

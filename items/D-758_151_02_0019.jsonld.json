@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/797511"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_151_02_0019.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": "1953-04-13",
   "schema:description": "Advertisement inside a program for the International Geneva Association Boston Branch Forty-Sixth Annual Dinner Dance.",

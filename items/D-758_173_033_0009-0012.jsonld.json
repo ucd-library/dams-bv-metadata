@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1423917"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_173_033_0009-0012.pdf"
-  },
   "schema:datePublished": "1980s-1990s",
   "schema:identifier": [
     "ark:/87293/d38p5vh0s",

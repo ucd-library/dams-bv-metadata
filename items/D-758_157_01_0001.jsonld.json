@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/864482"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_157_01_0001.pdf"
-  },
   "schema:datePublished": "1945",
   "schema:description": "An article from the New York Herald Tribune about the dinner at the Waldorf-Astoria held on June 19, 1945.",
   "schema:identifier": [

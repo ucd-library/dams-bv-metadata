@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1175993"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_082_003.pdf"
-  },
   "schema:description": "1939 vintage",
   "schema:identifier": [
     "ark:/87293/d3cf9jd6n",

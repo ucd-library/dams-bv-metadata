@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1423917"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_154_28_0003.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": 1956,
   "schema:identifier": [

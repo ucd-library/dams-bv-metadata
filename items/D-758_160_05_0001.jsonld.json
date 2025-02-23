@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1750243"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_160_05.pdf"
-  },
   "schema:datePublished": "1965-1971",
   "schema:identifier": [
     "D-758, Box:160, Folder:5",

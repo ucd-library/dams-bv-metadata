@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/797511"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_152_01_0007.pdf"
-  },
   "schema:creator": "Beaulieu Vineyard",
   "schema:datePublished": "1940s-1960s",
   "schema:identifier": [

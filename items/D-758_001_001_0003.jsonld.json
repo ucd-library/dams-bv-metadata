@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/1728849"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_001_001_0003.pdf"
-  },
   "schema:datePublished": "1940-1969",
   "schema:identifier": [
     "D-758, Box:1, Folder:1",

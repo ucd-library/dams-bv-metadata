@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423917"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_009_001_0012.pdf"
-  },
   "schema:datePublished": "1914-1942",
   "schema:identifier": [
     "D-758, Box:9, Folder:1",

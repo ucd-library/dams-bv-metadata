@@ -21,9 +21,6 @@
       "@id": "http://id.worldcat.org/fast/797511"
     }
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_154_10.pdf"
-  },
   "schema:creator": "Thollander, Earl",
   "schema:datePublished": "1960s",
   "schema:identifier": [

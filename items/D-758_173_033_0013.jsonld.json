@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423917"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_173_033_0013.pdf"
-  },
   "schema:datePublished": "1980s-1990s",
   "schema:identifier": [
     "D-758, Box:173, Folder:33",

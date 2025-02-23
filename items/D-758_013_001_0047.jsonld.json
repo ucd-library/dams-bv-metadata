@@ -16,9 +16,6 @@
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/1423917"
   },
-  "schema:associatedMedia": {
-    "@id": "@base:/media/D-758_013_001_0047_recto-01.pdf"
-  },
   "schema:creator": "Tchelistcheff, Andre",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
