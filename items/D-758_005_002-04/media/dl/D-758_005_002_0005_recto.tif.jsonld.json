@@ -11,5 +11,6 @@
   "@id": "",
   "ebucore:filename": "D-758_005_002_0005_recto.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "@type": []
+  "@type": [],
+  "schema:position": "001"
 }

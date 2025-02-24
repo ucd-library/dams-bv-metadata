@@ -15,5 +15,6 @@
     "schema:MediaObject"
   ],
   "ebucore:filename": "D-758_002_005_0027_verso-02.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:position": "002"
 }
