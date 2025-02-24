@@ -11,5 +11,6 @@
   "@id": "",
   "ebucore:filename": "D-758_154_20_0005-02.tif",
   "ebucore:hasMimeType": "image/tiff",
-  "@type": []
+  "@type": [],
+  "schema:position": "002"
 }

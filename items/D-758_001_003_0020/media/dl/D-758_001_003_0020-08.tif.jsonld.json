@@ -15,5 +15,6 @@
     "schema:MediaObject"
   ],
   "ebucore:filename": "D-758_001_003_0020-08.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:position": "008"
 }

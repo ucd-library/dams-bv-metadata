@@ -15,5 +15,6 @@
     "schema:MediaObject"
   ],
   "ebucore:filename": "D-758_005_015-10_0009_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:position": "017"
 }
