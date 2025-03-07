@@ -14,9 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../D-758_173_005_0011_recto-01.jpg"
-  },
   "schema:position": "01",
   "ebucore:filename": "D-758_173_005_0011_recto-01.tif",
   "ebucore:hasMimeType": "image/tiff"
