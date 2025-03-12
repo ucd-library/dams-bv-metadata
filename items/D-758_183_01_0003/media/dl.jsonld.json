@@ -14,9 +14,6 @@
     "ldp:DirectContainer",
     "schema:MediaObject"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../images"
-  },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"
