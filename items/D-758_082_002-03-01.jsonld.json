@@ -25,7 +25,7 @@
     "@id": "@base:/media/dl/D-758_082_002-03_0001.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Six Decades of Georges de Latour Private Reserve, ca. 2000",
   "schema:temporal": "ca. 2000"

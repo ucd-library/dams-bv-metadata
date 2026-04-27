@@ -25,7 +25,7 @@
     "@id": "@base:/media/dl/D-758_009_002_0001_recto.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Loose pages from Board of Directors Minute Book-Minutes, 1942-1943, in folder",
   "schema:temporal": "1942-1943"

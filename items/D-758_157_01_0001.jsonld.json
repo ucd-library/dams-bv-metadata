@@ -26,7 +26,7 @@
     "@id": "@base:/media/dl/D-758_157_01_0001_recto.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "New York Herald Tribune article about the Waldorf-Astoria Dinner",
   "schema:temporal": "1945-1949"

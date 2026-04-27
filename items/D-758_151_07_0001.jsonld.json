@@ -29,7 +29,7 @@
     "@id": "@base:/media/dl/D-758_151_07_0001_recto.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Advertising Schedule, 1951 - 04",
   "schema:temporal": "Spring 1951"

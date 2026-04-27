@@ -26,7 +26,7 @@
     "@id": "@base:/media/dl/D-758_154_34_0004_recto-0004.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "BV Wine Society Newsletter, 1995",
   "schema:temporal": "1992-1995 2004"

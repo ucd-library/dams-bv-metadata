@@ -28,7 +28,7 @@
     "@id": "@base:/media/dl/D-758_082_001-30_0001_recto.tif"
   },
   "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0//"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Tasting notes-Syrah, 1995"
 }
